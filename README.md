@@ -1,2 +1,18 @@
-# axiotissa-taverna-naxos
-Website project for Axiotissa Taverna, Naxos
+# Ταβέρνα Αξιώτισσα
+
+## Στ. Επ.
+- Διεύθυνση: 18 km στον δρόμο Χώρα–Αλυκό, Νάξος, Ελλάδα
+- Τηλέφωνο: 22850 75107
+- Email: axiotissa2000@gmail.com
+
+## Γιατί χρειάζεται το site
+Δυνατό τουριστικό brand στη Νάξο. Ένα πιο σύγχρονο site μπορεί να κάνει πιο άμεση την εμπειρία κράτησης και την παρουσίαση της κουζίνας σε διεθνές κοινό.
+
+## Website quality
+Existing established site; redesign opportunity
+
+## Lead score
+84/100
+
+## Τιμή site
+€250 (εφάπαξ)
